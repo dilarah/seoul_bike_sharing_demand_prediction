@@ -26,7 +26,8 @@ Unique count: Seasons- 4, Holiday- 2, Functioning Day- 2, will later be one hot 
 Distribution of most of the data is not normally distributed and includes a lot of outliers. Later will be Robust scaled to eliminate the outlier effect.
 
 - Correlation Matrix
-![corr matrix](https://github.com/dilarah/seoul_bike_sharing_demand_prediction/assets/33967361/b1783674-d9af-4f7e-953d-9b38bf8d6021)
+![download (1)](https://github.com/dilarah/seoul_bike_sharing_demand_prediction/assets/33967361/21fe70d3-9d17-407b-bf44-3f163652c239)
+
 
 When the all Pearson correlation is listed to predict the target some features appear to have higher correlation.
 
